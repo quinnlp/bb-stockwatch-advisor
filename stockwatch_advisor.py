@@ -72,7 +72,9 @@ def main():
             print(f"Holdings: {res.x[-1]} (${res.x[-1] / 100} -> ${res.x[-1] / 100})")
         print("------\n")
 
-        print(f"Expected Value: ${-res.fun} ({(-res.fun - b_eq[0]) / b_eq[0]}%)")
+        print(f"Expected Value: ${-res.fun} ({(-res.fun - b_eq[0]) / b_eq[0]}%)\n")
+
+        print(f"Eviction Probability: {yamlfile['evictions'] / len(houseguests)}")
 
 if __name__ == "__main__":
     main()
