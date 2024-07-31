@@ -1,0 +1,110 @@
+net_worth: 221.40
+
+evictions: 1
+
+houseguests:
+  - name: Angela
+    cost: 2.06
+    projections:
+      - 1.19
+      - 1.40
+      - 1.19
+      - 1.40
+  - name: Brooklyn
+    cost: 6.96
+    projections:
+      - 7.96
+      - 9.11
+      - 7.96
+      - 7.96
+  - name: Cam
+    cost: 4.90
+    projections:
+      - 3.92
+      - 3.92
+      - 4.90
+      - 4.90
+  - name: Cedric
+    cost: 6.96
+    projections:
+      - 5.85
+      - 5.85
+      - 7.96
+      - 7.96
+  - name: Chelsie
+    cost: 6.70
+    projections:
+      - 7.69
+      - 7.69
+      - 7.69
+      - 7.69
+  - name: Joseph 
+    cost: 5.00
+    projections:
+      - 4.00
+      - 5.00
+      - 5.00
+      - 5.00
+  - name: Kenney
+    cost: 0.51
+    projections:
+      - 0.24
+      - 0.24
+      - 0.24
+      - 0.51
+  - name: Kimo
+    cost: 5.61
+    projections:
+      - 7.47
+      - 5.76
+      - 7.47
+      - 7.47
+  - name: Leah
+    cost: 4.00
+    projections:
+      - 3.82
+      - 3.82
+      - 3.82
+      - 3.82
+  - name: Lisa
+    cost: 2.06
+    projections:
+      - 1.40
+      - 1.19
+      - 1.19
+      - 1.40
+  - name: Makensy
+    cost: 4.61
+    projections:
+      - 4.61
+      - 4.61
+      - 4.61
+      - 3.69
+  - name: Quinn
+    cost: 7.05
+    projections:
+      - 8.06
+      - 8.06
+      - 8.06
+      - 8.06
+  - name: Rubina
+    cost: 6.00
+    projections:
+      - 6.96
+      - 6.96
+      - 6.96
+      - 6.96
+  - name: T'Kor
+    cost: 6.60
+    projections:
+      - 8.58
+      - 8.58
+      - 9.71
+      - 8.58
+  - name: Tucker
+    cost: 5.04
+    projections:
+      - 4.03
+      - 5.04
+      - 6.05
+      - 5.04
