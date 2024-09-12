@@ -67,7 +67,7 @@ def main():
         print("------")
         for houseguest, stock, cost, projection in zip(houseguests, res.x, A_eq[0], c):
             if stock > 0 or args.verbose:
-                print(f"{houseguest['name']}: {int(stock)} (${stock * cost} -> ${stock * -projection})")
+                print(f"{houseguest['name']}: {round(stock)} (${round(stock) * cost} -> ${round(stock) * -projection})")
         if res.x[-1] > 0 or args.verbose:
             print(f"Holdings: {res.x[-1]} (${res.x[-1] / 100} -> ${res.x[-1] / 100})")
         print("------\n")
