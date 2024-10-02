@@ -1,0 +1,40 @@
+net_worth: 79.09
+
+evictions: 1
+
+houseguests:
+  - name: Cam
+    cost: 5.69
+    projections:
+      - 6.63
+      - 6.63
+      - 6.63
+      - 4.78
+  - name: Chelsie
+    cost: 17.87
+    projections:
+      - 20.32
+      - 20.32
+      - 20.32
+      - 20.32
+  - name: Kimo
+    cost: 1.01
+    projections:
+      - 0.46
+      - 0.46
+      - 0.54
+      - 0.54
+  - name: Makensy
+    cost: 0.92
+    projections:
+      - 0.77
+      - 0.62
+      - 0.77
+      - 1.03
+  - name: Rubina
+    cost: 1.20
+    projections:
+      - 0.76
+      - 0.76
+      - 0.94
+      - 0.94
