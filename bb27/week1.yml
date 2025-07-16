@@ -1,0 +1,124 @@
+net_worth: 200.00
+
+evictions: 1
+
+houseguests:
+  - name: Adrian
+    cost: 5.00
+    projections:
+      - 5.00
+      - 5.00
+      - 5.00
+      - 5.00
+  - name: Amy
+    cost: 3.00
+    projections:
+      - 2.58
+      - 2.58
+      - 3.33
+      - 2.58
+  - name: Ashley
+    cost: 4.00
+    projections:
+      - 3.82
+      - 3.82
+      - 4.61
+      - 3.82
+  - name: Ava 
+    cost: 5.00
+    projections:
+      - 5.00
+      - 5.00
+      - 6.00
+      - 5.00
+  - name: Jimmy
+    cost: 6.00
+    projections:
+      - 6.96
+      - 6.96
+      - 6.96
+      - 5.04
+  - name: Katherine
+    cost: 6.00
+    projections:
+      - 5.04
+      - 6.96
+      - 6.96
+      - 5.04
+  - name: Keanu
+    cost: 2.00
+    projections:
+      - 1.43
+      - 1.43
+      - 1.43
+      - 2.18
+  - name: Kelley
+    cost: 1.00
+    projections:
+      - 0.51
+      - 0.51
+      - 0.51
+      - 1.06
+  - name: Lauren
+    cost: 6.00
+    projections:
+      - 5.04
+      - 6.96
+      - 6.96
+      - 6.96
+  - name: Mickey
+    cost: 7.00
+    projections:
+      - 9.01
+      - 9.01
+      - 9.01
+      - 7.05
+  - name: Morgan
+    cost: 6.00
+    projections:
+      - 6.96
+      - 6.96
+      - 6.96
+      - 6.96
+  - name: Rachel
+    cost: 7.00
+    projections:
+      - 7.05
+      - 9.01
+      - 9.01
+      - 9.01
+  - name: Rylie
+    cost: 5.00
+    projections:
+      - 5.00
+      - 5.00
+      - 4.00
+      - 5.00
+  - name: Vince
+    cost: 2.00
+    projections:
+      - 1.22
+      - 1.22
+      - 2.18
+      - 2.18
+  - name: Will
+    cost: 5.00
+    projections:
+      - 5.00
+      - 5.00
+      - 5.00
+      - 5.00
+  - name: Zach
+    cost: 7.00
+    projections:
+      - 9.01
+      - 9.01
+      - 7.05
+      - 7.05
+  - name: Zae
+    cost: 4.00
+    projections:
+      - 3.82
+      - 3.82
+      - 3.06
+      - 3.82
