@@ -1,0 +1,82 @@
+net_worth: 211.57
+
+evictions: 1
+
+houseguests:
+  - name: Ashley
+    cost: 3.68
+    projections:
+      - 5.18
+      - 3.89
+      - 5.90
+      - 3.89
+  - name: Ava 
+    cost: 4.99
+    projections:
+      - 4.29
+      - 4.29
+      - 4.29
+      - 5.33
+  - name: Katherine
+    cost: 1.44
+    projections:
+      - 0.65
+      - 0.76
+      - 0.76
+      - 0.76
+  - name: Keanu
+    cost: 0.33
+    projections:
+      - 0.09
+      - 0.09
+      - 0.09
+      - 0.26
+  - name: Kelley
+    cost: 0.25
+    projections:
+      - 0.07
+      - 0.07
+      - 0.07
+      - 0.07
+  - name: Lauren
+    cost: 2.19
+    projections:
+      - 1.38
+      - 1.38
+      - 1.72
+      - 1.72
+  - name: Mickey
+    cost: 1.74
+    projections:
+      - 1.40
+      - 1.12
+      - 1.40
+      - 1.80
+  - name: Morgan
+    cost: 3.34
+    projections:
+      - 4.75
+      - 4.75
+      - 4.75
+      - 4.75
+  - name: Rachel
+    cost: 7.23
+    projections:
+      - 10.47
+      - 9.26
+      - 9.26
+      - 9.26
+  - name: Vince
+    cost: 1.20
+    projections:
+      - 0.86
+      - 1.07
+      - 0.86
+      - 1.07
+  - name: Will
+    cost: 4.80
+    projections:
+      - 6.54
+      - 4.98
+      - 4.98
+      - 6.54
